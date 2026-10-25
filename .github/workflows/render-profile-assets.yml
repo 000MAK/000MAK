@@ -22,9 +22,10 @@ jobs:
   render:
     runs-on: ubuntu-latest
     steps:
-      - name: Check out profile repository
+      - name: Check out latest main branch
         uses: actions/checkout@v4
         with:
+          ref: main
           persist-credentials: true
 
       - name: Set up Python
@@ -52,7 +53,18 @@ jobs:
           git add assets/global-hq-network.gif assets/hq-node-badges.gif
           if git diff --cached --quiet; then
             echo "Generated animations are already up to date."
-          else
-            git commit -m "chore(profile): refresh HQ animation exports"
-            git push
+            exit 0
           fi
+          git commit -m "chore(profile): refresh HQ animation exports"
+          # Another profile edit may land while the render job is running.
+          # Rebase the generated-assets commit before pushing, never force-push.
+          for attempt in 1 2 3; do
+            git pull --rebase origin main
+            if git push origin HEAD:main; then
+              exit 0
+            fi
+            echo "Push raced with another update; retrying attempt " + "$attempt/3" + "."
+            sleep 2
+          done
+          echo "Could not publish generated animation exports after 3 attempts." >&2
+          exit 1
