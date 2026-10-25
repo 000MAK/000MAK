@@ -52,6 +52,21 @@ My public GitHub work includes research prototypes, reproducible learning exampl
 
 Projects in this profile have different levels of completeness. Research outputs should be evaluated against their data provenance, assumptions, validation design, and reproducibility. The descriptions above distinguish research prototypes and learning demonstrations from production-validated systems.
 
+## GitHub stats
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=000MAK&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="GitHub stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=000MAK&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top languages" />
+</p>
+
+## Beyond the code
+
+> *"Do or do not. There is no try."* — Master Yoda 🌌
+
+- 🥋 Martial arts: Taekwondo (2nd Dan black belt), Muay Thai (4th Khan), kickboxing, BJJ — currently an assistant coach.
+- 🐈 Office supervisor: my cat **Simba**, who audits every commit from the keyboard.
+- 🎬 Star Wars fan — the Force and clean, deterministic code have more in common than you'd think.
+
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/mehmet-ali-kaya97/) · [All public repositories](https://github.com/000MAK?tab=repositories)
