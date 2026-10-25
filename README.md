@@ -21,7 +21,7 @@ Data management and governance, applied statistics, actuarial risk modeling, and
 </p>
 
 <p align="center">
-  <img src="assets/hq-node-badges.gif" width="100%" alt="Animated node badges for Konya HQ Core, Sakarya Academic Node, Istanbul Corporate Hub, and Tashkent Wifeyjoma Partner Node">
+  <img src="assets/hq-node-badges.gif" width="100%" alt="Animated node badges for Konya HQ Core, Sakarya Academic Node, Istanbul Corporate Hub, and Tashkent Azizam Partner Node">
 </p>
 
 <p align="center"><sub>Animated GIF exports are generated from editable vector masters by GitHub Actions. SVG sources: <a href="assets/global-hq-network.svg">network diagram</a> · <a href="assets/badge-konya.svg">Konya</a> · <a href="assets/badge-sakarya.svg">Sakarya</a> · <a href="assets/badge-istanbul.svg">Istanbul</a> · <a href="assets/badge-tashkent.svg">Tashkent</a>.</sub></p>
@@ -47,7 +47,7 @@ Data management and governance, applied statistics, actuarial risk modeling, and
                                                              +------+------+
                                                              | TASHKENT    |
                                                              | PARTNER NODE|
-                                                             | Wifeyjoma   |
+                                                             | Azizam   |
                                                              +-------------+
 ```
 
@@ -56,12 +56,12 @@ Data management and governance, applied statistics, actuarial risk modeling, and
 | **Konya** | HQ core | Coordination, route planning, versioned configuration |
 | **Sakarya** | Academic node | MIS research, statistics, reproducible experiments |
 | **Istanbul** | Corporate hub | Data governance concepts, operational workflows, quality controls |
-| **Tashkent** | Wifeyjoma partnership node | Cross-border coordination and partner workflow hand-offs |
+| **Tashkent** | Azizam partnership node | Cross-border coordination and partner workflow hand-offs |
 
 **Control plane:** documented policies, routing decisions, versioned configurations, and auditable status events.  
 **Data plane:** explicit approval, least-privilege access, and source-system ownership. Metadata and work items can be coordinated without automatically replicating sensitive data.
 
-> **Scope note:** This is a conceptual portfolio architecture, not a claim of an active network, physical HQ at every node, live system integration, or permission to exchange confidential data. “Wifeyjoma” is the partner label supplied by the profile owner; its identity and partnership details are not independently verified here.
+> **Scope note:** This is a conceptual portfolio architecture, not a claim of an active network, physical HQ at every node, live system integration, or permission to exchange confidential data. “Azizam” is the partner label supplied by the profile owner; its identity and partnership details are not independently verified here.
 
 
 ## 🌌 The force behind the data
