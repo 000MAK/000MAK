@@ -16,7 +16,7 @@ I build small, inspectable Python tools and reproducible learning projects with 
 
 Python · Data Processing · Workflow Automation · scikit-learn · PyTorch · Model Evaluation · CSV/JSON · Unit Testing · Git/GitHub
 
-The ML/DL repositories are learning demonstrations, not production systems or claims of real-world model performance. I aim to keep code, setup steps, and limitations clear so each project can be reviewed and reproduced.
+The ML/DL examples in this repository are learning demonstrations, not production systems or claims of real-world model performance. I aim to keep code, setup steps, and limitations clear so each project can be reviewed and reproduced.
 
 ## Connect
 
