@@ -17,15 +17,14 @@ Data management and governance, applied statistics, actuarial risk modeling, and
 ## 🌐 Global Route & Command HQ
 
 <p align="center">
-  <img src="assets/global-hq-network.svg" width="100%" alt="Animated conceptual network diagram showing Konya, Sakarya, Istanbul, and Tashkent as four coordinated nodes under a policy-gated Global Route and Command HQ">
+  <a href="assets/global-hq-network.svg"><img src="assets/global-hq-network.gif" width="100%" alt="Animated conceptual HQ network: Konya, Sakarya, Istanbul, and Tashkent, with policy-gated routes and pulsing node indicators"></a>
 </p>
 
 <p align="center">
-  <img src="assets/badge-konya.svg" width="180" alt="Konya — HQ core badge">
-  <img src="assets/badge-sakarya.svg" width="180" alt="Sakarya — academic node badge">
-  <img src="assets/badge-istanbul.svg" width="180" alt="Istanbul — corporate hub badge">
-  <img src="assets/badge-tashkent.svg" width="180" alt="Tashkent — Wifeyjoma partner node badge">
+  <a href="assets/badge-konya.svg"><img src="assets/hq-node-badges.gif" width="100%" alt="Animated node badges for Konya HQ Core, Sakarya Academic Node, Istanbul Corporate Hub, and Tashkent Wifeyjoma Partner Node"></a>
 </p>
+
+<p align="center"><sub>Animation exports are generated from the editable SVG masters by GitHub Actions. Click either animation to open its vector source.</sub></p>
 
 ### Multi-node topology
 
