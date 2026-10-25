@@ -1,0 +1,58 @@
+name: Render profile HQ animations
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "assets/*.svg"
+      - "scripts/render_profile_assets.py"
+      - "requirements-profile-assets.txt"
+      - ".github/workflows/render-profile-assets.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-hq-asset-render
+  cancel-in-progress: false
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: requirements-profile-assets.txt
+
+      - name: Install system SVG rendering library
+        run: |
+          sudo apt-get update
+          sudo apt-get install --yes libcairo2
+
+      - name: Install pinned asset-rendering dependencies
+        run: python -m pip install -r requirements-profile-assets.txt
+
+      - name: Render animated GIF exports from SVG sources
+        run: python scripts/render_profile_assets.py
+
+      - name: Commit generated animations when changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/global-hq-network.gif assets/hq-node-badges.gif
+          if git diff --cached --quiet; then
+            echo "Generated animations are already up to date."
+          else
+            git commit -m "chore(profile): refresh HQ animation exports"
+            git push
+          fi
