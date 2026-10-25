@@ -98,6 +98,19 @@ These badges describe methods explored in specific repositories. They are not ce
 | [**Mini Log Redactor**](https://github.com/000MAK/mini-log-redactor) | Applies pattern-based redaction to common token-like strings in diagnostic logs | Best-effort only; review the result because no pattern-based redactor guarantees that every secret is detected. |
 | [**Mini File Organizer**](https://github.com/000MAK/mini-file-organizer) | Previews file-move plans by extension and applies moves only when explicitly requested | Dry-run by default. |
 
+
+### Online-data model benchmark & multimodal deep learning
+
+The Quantix ML/DL lab includes a combined runner for **20 statistical and machine-learning experiments** using the UCI Wine Quality and Bike Sharing datasets, with data downloaded at runtime and source/license details documented in the lab repository.
+
+- [**Run all 20 online-data models**](https://github.com/000MAK/quantix-100-new-mini-projects/blob/main/ml-dl-lab/run_20_models.py)
+- [**Online model suite guide and metrics**](https://github.com/000MAK/quantix-100-new-mini-projects/blob/main/ml-dl-lab/README.md)
+- [**Computer vision: Bean leaf classification CNN**](https://github.com/000MAK/quantix-100-new-mini-projects/blob/main/ml-dl-lab/vision_beans_cnn.py) — downloads the Beans image dataset from Hugging Face at runtime.
+- [**Audio: spoken-digit recognition CNN**](https://github.com/000MAK/quantix-100-new-mini-projects/blob/main/ml-dl-lab/audio_fsdd_cnn.py) — downloads the version-tagged Free Spoken Digit Dataset at runtime.
+- [**Dataset attribution and licenses**](https://github.com/000MAK/quantix-100-new-mini-projects/blob/main/ONLINE_DATA_SOURCES.md)
+
+No datasets, customer records, image/audio archives, or trained weights are committed. Results are benchmark demonstrations on the listed public datasets, not claims of actuarial, medical, regulatory, or production performance.
+
 ### 📈 Portfolio optimization research artifact
 
 [**PXU030 Portfolio Optimization**](https://github.com/000MAK/PXU030Portfoliooptimization) contains a saved HTML artifact associated with minimum-variance portfolio analysis over daily data from 2020-01-01 through 2022-12-02.
