@@ -33,20 +33,23 @@ I build and document independent projects with clear inputs, explicit assumption
 ## ⚡ Tech stack & tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,sql,matlab,pytorch,git,github,vscode,linux,bash&theme=dark" alt="Python, R, SQL, MATLAB, PyTorch, Git, GitHub, VS Code, Linux, and Bash">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,r,matlab,pytorch,git,github,vscode,linux,bash,docker&theme=dark&perline=5" alt="Python, R, MATLAB, PyTorch, Git, GitHub, VS Code, Linux, Bash, and Docker" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Data%20Quality-Validation%20%26%20Audit-287A6B?style=for-the-badge" alt="Data quality and validation">
-  <img src="https://img.shields.io/badge/Actuarial%20Research-Risk%20Analytics-365E9D?style=for-the-badge" alt="Actuarial research and risk analytics">
-  <img src="https://img.shields.io/badge/Statistics-Reproducible%20Analysis-6F42C1?style=for-the-badge" alt="Statistics and reproducible analysis">
+  <img src="https://img.shields.io/badge/SQL-Structured_Query_Language-4479A1?style=for-the-badge" alt="SQL — Structured Query Language" />
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Microsoft Power BI" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
 </p>
 
-- **Data management and reporting:** data-quality checks, repeatable transformations, spreadsheet workflows, and clear reporting.
-- **Applied statistics and quantitative research:** statistical evaluation, portfolio-analysis concepts, and reproducible experiments.
-- **Actuarial-risk research:** OU-SDE parameterization, HMM/GMM regime analysis, extreme-value methods, and VaR/TVaR-style measures in research code.
-- **Python automation:** CSV/JSON conversion, validation utilities, text processing, and non-destructive file operations.
-- **Machine learning practice:** classical classification and clustering, a small PyTorch classifier, and an optional Hugging Face inference example using a documented third-party model.
+<p align="center">
+  <img src="https://img.shields.io/badge/Actuarial_Risk-Solvency_Modeling-365E9D?style=for-the-badge&logo=python&logoColor=white" alt="Actuarial risk and solvency modeling" />
+  <img src="https://img.shields.io/badge/Stochastic_Processes-OU--SDE_%26_EVT-287A6B?style=for-the-badge" alt="Stochastic processes and extreme value theory" />
+  <img src="https://img.shields.io/badge/Statistics-Reproducible_Analysis-6F42C1?style=for-the-badge" alt="Statistics and reproducible analysis" />
+</p>
 
 ### Quantitative methods explored
 
