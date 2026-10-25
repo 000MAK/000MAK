@@ -14,19 +14,56 @@ Data management and governance, applied statistics, actuarial risk modeling, and
 
 ---
 
-## 📍 Where I work from
+## 🌐 Global Route & Command HQ
+
+<p align="center">
+  <img src="assets/global-hq-network.svg" width="100%" alt="Animated conceptual network diagram showing Konya, Sakarya, Istanbul, and Tashkent as four coordinated nodes under a policy-gated Global Route and Command HQ">
+</p>
+
+<p align="center">
+  <img src="assets/badge-konya.svg" width="180" alt="Konya — HQ core badge">
+  <img src="assets/badge-sakarya.svg" width="180" alt="Sakarya — academic node badge">
+  <img src="assets/badge-istanbul.svg" width="180" alt="Istanbul — corporate hub badge">
+  <img src="assets/badge-tashkent.svg" width="180" alt="Tashkent — Wifeyjoma partner node badge">
+</p>
+
+### Multi-node topology
 
 ```text
-[ Konya — home base ]
-        |
-        ├─► Ph.D. research (Management Information Systems)
-        ▼
-[ Sakarya University — academic node ]
-        |
-        ├─► corporate data management role
-        ▼
-[ Istanbul — Bupa Acıbadem Sigorta, Data Management Office ]
+                      +-----------------------------------+
+                      | GLOBAL ROUTE & COMMAND HQ         |
+                      | Policy gate | Routing | Audit     |
+                      +-----------------+-----------------+
+                                        |
+              +-------------------------+--------------------------+
+              |                         |                          |
+        +-----+------+           +------+-----+             +------+------+
+        | KONYA      |           | SAKARYA    |             | ISTANBUL    |
+        | HQ CORE    |           | RESEARCH   |             | CORP. HUB   |
+        | Planning   |           | MIS / Stats|             | Data Ops    |
+        +------------+           +------------+             +------+------+
+                                                                    |
+                                                          approved interface
+                                                                    |
+                                                             +------+------+
+                                                             | TASHKENT    |
+                                                             | PARTNER NODE|
+                                                             | Wifeyjoma   |
+                                                             +-------------+
 ```
+
+| Node | Role in the model | Primary responsibility |
+|---|---|---|
+| **Konya** | HQ core | Coordination, route planning, versioned configuration |
+| **Sakarya** | Academic node | MIS research, statistics, reproducible experiments |
+| **Istanbul** | Corporate hub | Data governance concepts, operational workflows, quality controls |
+| **Tashkent** | Wifeyjoma partnership node | Cross-border coordination and partner workflow hand-offs |
+
+**Control plane:** documented policies, routing decisions, versioned configurations, and auditable status events.  
+**Data plane:** explicit approval, least-privilege access, and source-system ownership. Metadata and work items can be coordinated without automatically replicating sensitive data.
+
+> **Scope note:** This is a conceptual portfolio architecture, not a claim of an active network, physical HQ at every node, live system integration, or permission to exchange confidential data. “Wifeyjoma” is the partner label supplied by the profile owner; its identity and partnership details are not independently verified here.
+
 
 ## 🌌 The force behind the data
 
