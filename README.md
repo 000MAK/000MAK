@@ -1,158 +1,115 @@
 <p align="center">
-  <img src="assets/github-banner.png" width="100%" alt="Mehmet Ali Kaya's data, statistics, and actuarial risk modeling banner">
+  <img src="assets/github-banner.png" width="100%" alt="Mehmet Ali Kaya — data management, applied statistics, and Python research">
 </p>
 
 <div align="center">
 
-# Hi, I'm Mehmet Ali Kaya 👋
+# Mehmet Ali Kaya
 
-**Data Management Office Specialist · Ph.D. Candidate in Management Information Systems · M.Sc. in Statistics**
+### Data Management | Applied Statistics | Actuarial Risk Research | Python Automation
 
-I work at the intersection of data governance, applied statistics, actuarial risk modeling, and reproducible Python automation. I enjoy combining rigorous quantitative methods with practical engineering—and bringing the same patience and discipline to research, code, and martial arts.
+**Data Management Office Specialist at Bupa Acıbadem Sigorta** · **Ph.D. Candidate in Management Information Systems** · **M.Sc. in Statistics**
+
+I work across data management, applied statistics, and quantitative risk research. My focus is on reliable reporting, reproducible analysis, and small Python tools that make data workflows easier to inspect, validate, and maintain.
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1200&color=39D353&center=true&vCenter=true&width=700&lines=Applied+Statistics+%26+Actuarial+Risk;Machine+Learning+%26+Deep+Learning+Practice;Reliable+Data+Pipelines+%26+Quality;Martial+Arts+%7C+Focus+%7C+Consistency;Global+HQ%3A+Konya+%E2%86%92+Sakarya+%E2%86%92+Istanbul+%E2%86%92+Tashkent" alt="Animated text showing statistics, actuarial risk, machine learning, data quality, martial arts, and global HQ interests">
+  <a href="https://github.com/000MAK"><img src="https://img.shields.io/badge/GitHub-000MAK-181717?style=for-the-badge&logo=github" alt="GitHub profile"></a>
+  <a href="https://huggingface.co/makactuary"><img src="https://img.shields.io/badge/Hugging%20Face-makactuary-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face profile"></a>
+  <a href="https://www.linkedin.com/in/mehmet-ali-kaya97/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn profile"></a>
 </p>
-
-[![GitHub](https://img.shields.io/badge/GitHub-000MAK-181717?style=flat&logo=github)](https://github.com/000MAK)
-[![Python](https://img.shields.io/badge/Python-Projects-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/000MAK?tab=repositories)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-makactuary-FFD21E?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/makactuary)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/mehmet-ali-kaya97/)
 
 </div>
 
 ---
 
-## 🌐 Global Route & Command HQ
+## Profile
 
-<p align="center">
-  <img src="assets/global-hq-network.gif" width="100%" alt="Animated conceptual HQ architecture connecting Konya, Sakarya, Istanbul, and Tashkent through policy-gated coordination routes">
+My professional work centers on data-management operations and corporate-efficiency reporting. Alongside that work, my academic interests include applied statistics, actuarial analytics, quantitative risk methods, and reproducible computational research.
+
+I build and document independent Python projects with an emphasis on clear inputs, explicit assumptions, safe file handling, and verifiable outputs. The repositories below include both research prototypes and small educational utilities; their maturity and limitations are stated rather than implied.
+
+## Technical focus
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" alt="R">
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white" alt="MATLAB">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" alt="scikit-learn">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
 </p>
 
-<p align="center">
-  <img src="assets/hq-node-badges.gif" width="100%" alt="Animated badges for the Konya HQ core, Sakarya academic node, Istanbul corporate hub, and Tashkent Azizam partner node">
+- **Data management and reporting:** data quality checks, repeatable transformations, spreadsheet workflows, and clear reporting.
+- **Applied statistics and quantitative research:** statistical evaluation, portfolio-analysis concepts, and reproducible experiments.
+- **Actuarial-risk research:** OU-SDE parameterization, HMM/GMM regime analysis, extreme-value methods, and VaR/TVaR-style measures in a research-code context.
+- **Python automation:** CSV/JSON conversion, validation utilities, text processing, and non-destructive file operations.
+- **Machine learning practice:** classical classification and clustering, a small PyTorch classifier, and an optional Hugging Face inference example using documented third-party models.
+
+### Methods used in selected research code
+
+<p>
+  <img src="https://img.shields.io/badge/Stochastic%20Processes-OU--SDE-365E9D?style=flat" alt="Stochastic process research">
+  <img src="https://img.shields.io/badge/Regime%20Analysis-HMM%20%2F%20GMM-6F42C1?style=flat" alt="HMM and GMM regime analysis">
+  <img src="https://img.shields.io/badge/Tail%20Risk-EVT%20%2F%20POT--GPD-207A59?style=flat" alt="Extreme value theory and peaks over threshold">
+  <img src="https://img.shields.io/badge/Validation-Reproducible%20Workflows-555555?style=flat" alt="Reproducible workflow focus">
 </p>
 
-<p align="center"><sub>Editable SVG sources: <a href="assets/global-hq-network.svg">network diagram</a> · <a href="assets/badge-konya.svg">Konya</a> · <a href="assets/badge-sakarya.svg">Sakarya</a> · <a href="assets/badge-istanbul.svg">Istanbul</a> · <a href="assets/badge-tashkent.svg">Tashkent / Azizam</a>.</sub></p>
+These labels describe methods explored in specific repositories; they are not certifications or claims that the models are validated for regulatory, clinical, investment, or production decisions.
 
-### Multi-node topology
+## Selected projects
 
-```text
-                    +--------------------------------------+
-                    |       GLOBAL ROUTE & COMMAND HQ      |
-                    |   Policy Gate | Routing | Audit      |
-                    +--------------------+-----------------+
-                                         |
-             +---------------------------+---------------------------+
-             |                           |                           |
-      +------+-------+            +------+-------+            +------+-------+
-      | KONYA        |            | SAKARYA      |            | ISTANBUL     |
-      | HQ CORE      |            | ACADEMIC     |            | CORPORATE    |
-      | Planning     |            | MIS / Stats  |            | Data Quality |
-      +--------------+            +--------------+            +------+-------+
-                                                                       |
-                                                             Approved hand-off
-                                                                       |
-                                                               +-------+------+
-                                                               | TASHKENT     |
-                                                               | AZIZAM NODE  |
-                                                               | Partnership  |
-                                                               +--------------+
-```
-
-| Node | Role | Focus |
+| Project | What it does | Scope |
 |---|---|---|
-| **Konya** | HQ core | Coordination, route planning, and versioned configuration |
-| **Sakarya** | Academic node | Management Information Systems research, statistics, and reproducibility |
-| **Istanbul** | Corporate hub | Data governance concepts, quality controls, and approved operational workflows |
-| **Tashkent** | Azizam partner node | Cross-border coordination and partner workflow hand-offs |
+| [**BIOGAS RS-PIM Engine**](https://github.com/000MAK/biogas-rspim-engine) | Research pipeline for biogas-output data, OU-SDE parameterization, HMM/GMM regime comparisons, extreme-value fitting, risk measures, and report generation | Research/academic prototype. Bring permitted data, verify assumptions, and perform domain validation before interpreting results. |
+| [**Quantix — 100 Mini Python Projects**](https://github.com/000MAK/quantix-100-new-mini-projects) | Collection of focused command-line utilities with source code, examples, and tests, plus a separate educational ML/DL lab | See the project index and individual READMEs for each tool's behavior and limitations. |
+| [**Applied ML & DL Lab**](https://github.com/000MAK/quantix-100-new-mini-projects/tree/main/ml-dl-lab) | Wine classification, synthetic clustering, a small PyTorch digits classifier, and optional English sentiment inference with an attributed Hugging Face model | Educational baselines, not production ML services. Model scores should not be treated as calibrated high-stakes probabilities. |
+| [**Mini CSV Cleaner**](https://github.com/000MAK/mini-csv-cleaner) | Trims cell whitespace, skips fully blank rows, and optionally removes exact duplicate rows after trimming | Python standard library; includes unit tests and refuses to overwrite an existing output. |
+| [**Mini JSON ↔ CSV Converter**](https://github.com/000MAK/mini-json-csv-converter) | Converts JSON arrays of objects to CSV and CSV records to JSON | Python standard library; inspect the documented input shape and tests before using it in a workflow. |
+| [**Mini Log Redactor**](https://github.com/000MAK/mini-log-redactor) | Applies pattern-based redaction to common token-like strings in diagnostic logs | Best-effort hygiene only; it cannot guarantee that every secret is detected. Review output before sharing. |
 
-**Control plane:** documented policies, coordination, versioned configuration, and auditable events.  
-**Data plane:** approved access, least privilege, and source-system ownership. Work status and metadata can be coordinated without automatically copying sensitive datasets.
+### Additional research artifact
 
-> **Scope note:** This is a conceptual portfolio architecture, not a claim of live network connectivity, physical headquarters at every node, active system integration, or authorization to exchange confidential data. “Azizam” is the partnership label supplied for this profile; the partnership details have not been independently verified.
+[**PXU030 Portfolio Optimization**](https://github.com/000MAK/PXU030Portfoliooptimization) contains a saved HTML artifact associated with minimum-variance portfolio analysis over daily data from 2020-01-01 to 2022-12-02. The repository's end-to-end data provenance and reproducibility details remain incomplete; it should not be treated as an independently reproducible benchmark or as investment advice.
 
----
+## Engineering principles
 
-## 🧠 Technical focus
+- **Reproducibility:** document inputs, assumptions, steps, and dependencies.
+- **Data integrity:** preserve source files and avoid silent, ambiguous transformations.
+- **Validation:** test deterministic behavior and compare outputs against explicit expectations.
+- **Privacy and safety:** never publish customer data, credentials, or confidential files.
+- **Honest scope:** distinguish working examples, research prototypes, and future ideas.
+
+## Beyond the keyboard
+
+Martial arts have taught me to value steady practice, controlled execution, and fundamentals: **Taekwondo — 2nd Dan · Muay Thai — 4th Khan · Kickboxing — green belt · Brazilian Jiu-Jitsu — white belt · Level 1 Assistant Coach.**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,matlab,pytorch,git,github,linux,vscode&theme=dark" alt="Technology icons for Python, R, MATLAB, PyTorch, Git, GitHub, Linux, and VS Code">
+  <img src="assets/simba.jpg" width="170" alt="Simba, the orange tabby cat">
+  <br>
+  <sub>Simba's contribution to code review: morale and scheduled breaks. 🐾</sub>
 </p>
 
-- **Statistics & actuarial analytics:** stochastic modeling, risk analysis, tail-risk concepts, portfolio optimization, and quantitative evaluation.
-- **Machine learning & deep learning:** classical classification, clustering, neural-network practice, and transformer-based inference experiments.
-- **Data engineering:** deterministic transformations, CSV/JSON utilities, validation, quality reporting, and privacy-conscious automation.
-- **Research discipline:** transparent assumptions, reproducibility, meaningful baselines, and honest reporting of limitations.
-
-## 🧬 Selected projects
-
-*These links point to repositories that currently exist. Descriptions are deliberately limited to the documented scope of each project.*
-
-| Project | What it explores | Status / notes |
-|---|---|---|
-| [**biogas-rspim-engine**](https://github.com/000MAK/biogas-rspim-engine) | Research-oriented biogas output and actuarial-risk modeling, including OU-SDE calibration, HMM regime analysis, EVT tail fitting, and solvency-style metrics | Research/academic code; validate assumptions and runtime against your own data before operational use |
-| [**Quantix — ML/DL Lab**](https://github.com/000MAK/quantix-100-new-mini-projects/tree/main/ml-dl-lab) | Wine classification, synthetic clustering, a PyTorch digits classifier, and optional Hugging Face sentiment inference | Offline examples are available; external pretrained-model inference requires its documented dependencies and model download |
-| [**quantix-100-new-mini-projects**](https://github.com/000MAK/quantix-100-new-mini-projects) | Small Python CLI utilities and learning projects, including data processing, validation, file operations, and a consent-gated ingestion demo | See the repository README and tests for per-tool details |
-| [**PXU030Portfoliooptimization**](https://github.com/000MAK/PXU030Portfoliooptimization) | Minimum-variance portfolio optimization and efficient-frontier analysis | Statistics research artifact; historical analysis is not investment advice |
-| [**mini-csv-cleaner**](https://github.com/000MAK/mini-csv-cleaner) | Non-destructive CSV cleanup with optional de-duplication | See README for supported input formats and usage |
-| [**mini-json-csv-converter**](https://github.com/000MAK/mini-json-csv-converter) | Bidirectional JSON and CSV conversion | See repository tests and examples |
-| [**mini-log-redactor**](https://github.com/000MAK/mini-log-redactor) | Best-effort redaction of common secret-like patterns in logs | Redaction is not a guarantee; review outputs before sharing |
-
-### 🔬 Research ideas on the roadmap
-
-The following are **ideas, not existing published repositories**. They should only be linked as repositories after implementation and review:
-
-- **martial-arts-pose-ml** — pose-based movement classification using appropriately licensed data, with a clear distinction between movement labels and medical conclusions.
-- **actuarial-evt-dl** — an EVT-centered study comparing transparent statistical baselines with neural approaches for tail-risk research.
-- **rl-portfolio-optimizer** — a research comparison between PPO and classical portfolio baselines with chronological evaluation and transaction-cost assumptions.
-
----
-
-## 🐈 Simba's coding supervision log
+## GitHub activity
 
 <p align="center">
-  <img src="assets/simba.jpg" width="260" alt="Simba, an orange tabby cat, supervising the coding workstation">
-</p>
-
-<p align="center"><em>“Clean data, deterministic code, and properly scheduled treats.” — Simba 🐾</em></p>
-
-## 🥋 Discipline beyond the terminal
-
-**Taekwondo:** 2nd Dan black belt · **Muay Thai:** 4th Khan · **Kickboxing:** green belt · **Brazilian Jiu-Jitsu:** white belt · **Coaching:** Level 1 Assistant Coach
-
-Martial arts and quantitative work both reward controlled execution, consistent practice, careful observation, and getting the fundamentals right before increasing complexity.
-
-## 📊 GitHub activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=000MAK&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="GitHub statistics for 000MAK">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=000MAK&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Most-used programming languages in public repositories">
+  <img src="https://github-readme-stats.vercel.app/api?username=000MAK&show_icons=true&hide_border=true" alt="GitHub activity statistics for 000MAK">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=000MAK&layout=compact&hide_border=true" alt="Most-used languages in public repositories">
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=000MAK&theme=radical&no-frame=true&margin-w=8&row=1" alt="GitHub profile trophies for 000MAK">
+  <img src="https://raw.githubusercontent.com/000MAK/000MAK/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution graph animation for 000MAK">
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/000MAK/000MAK/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution graph snake for 000MAK">
-</p>
+<sub>Activity cards are rendered by third-party services and may be temporarily unavailable. The contribution animation depends on the repository's scheduled GitHub Actions workflow.</sub>
 
-<sub>Stats, trophies, typing text, and contribution animations depend on third-party services and GitHub Actions. They may be temporarily unavailable and are not official GitHub analytics. The contribution animation appears after its workflow successfully generates the file.</sub>
-
-## 🌍 Remote collaboration
-
-Interested in remote-friendly work involving data management, analytics, statistical modeling, Python automation, and reproducible research. **English: C1 (self-reported).**
-
-I value clear documentation, privacy-aware workflows, measurable assumptions, thoughtful code review, and communication across disciplines.
-
-## 🔗 Connect
+## Connect
 
 - **GitHub:** [@000MAK](https://github.com/000MAK)
 - **Hugging Face:** [makactuary](https://huggingface.co/makactuary)
 - **LinkedIn:** [Mehmet Ali Kaya](https://www.linkedin.com/in/mehmet-ali-kaya97/)
-- **Repositories:** [Browse all public projects](https://github.com/000MAK?tab=repositories)
+- **All public repositories:** [Browse projects](https://github.com/000MAK?tab=repositories)
 
 ---
 
-<p align="center"><sub>Think rigorously. Build reproducibly. Practice consistently. Keep Simba supplied with treats.</sub></p>
+<p align="center"><sub>Think rigorously. Build reproducibly. Document the limitations.</sub></p>
