@@ -14,6 +14,20 @@ Data management and governance, applied statistics, actuarial risk modeling, and
 
 ---
 
+## 📍 Where I work from
+
+```text
+[ Konya — home base ]
+        |
+        ├─► Ph.D. research (Management Information Systems)
+        ▼
+[ Sakarya University — academic node ]
+        |
+        ├─► corporate data management role
+        ▼
+[ Istanbul — Bupa Acıbadem Sigorta, Data Management Office ]
+```
+
 ## 🌌 The force behind the data
 
 Statistics and actuarial modeling reward the same habits that any long-term discipline does: patient iteration, respect for what the data actually shows, and systems thinking over shortcuts. That mindset — test it, measure it, don't guess — shapes how I approach both research and the small Python tools below.
