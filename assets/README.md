@@ -4,7 +4,7 @@
 
 The network diagram and four node badges in this folder were authored for the `000MAK/000MAK` profile. The SVG files are the editable vector sources. `global-hq-network.gif` and `hq-node-badges.gif` are generated animated exports so movement can be displayed in GitHub profile README views where SVG animation may be restricted.
 
-No third-party images, logos, datasets, or copied artwork are included. “Wifeyjoma” is the partner label provided by the profile owner.
+No third-party images, logos, datasets, or copied artwork are included. “Azizam” is the partner label provided by the profile owner.
 
 ## Architecture meaning and limits
 
