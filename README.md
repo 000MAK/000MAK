@@ -37,15 +37,23 @@ Python · R · SQL · MATLAB · statistical modeling · actuarial risk & solvenc
 
 ## 🐈 Simba's coding supervision log
 
-> Clean data, deterministic code, and properly scheduled treats.
+<p align="center">
+  <img src="assets/simba.jpg" width="260" alt="Simba, the author's orange tabby cat, mid-supervision" />
+</p>
 
-Simba is my ~4.5-year-old orange tabby and self-appointed coding supervisor. No photo is included yet — see **Adding Simba's photo** below for how to add a real one instead of a generic stock cat.
+<p align="center"><em>Clean data, deterministic code, and properly scheduled treats — signed, Simba 🐾</em></p>
 
 ## 🥋 Discipline beyond the terminal
 
 Taekwondo (2nd Dan black belt) · Muay Thai (4th Khan) · Kickboxing (green belt) · Brazilian Jiu-Jitsu (white belt) · Level 1 Assistant Coach
 
 The same principles apply on the mats and at the keyboard: controlled execution, consistent practice, and getting the fundamentals right before adding complexity.
+
+## Tech stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,r,sql,git,github,linux&theme=dark" alt="Core tech stack icons: Python, R, SQL, Git, GitHub, Linux" />
+</p>
 
 ## GitHub stats
 
@@ -54,7 +62,25 @@ The same principles apply on the mats and at the keyboard: controlled execution,
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=000MAK&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Most-used languages" />
 </p>
 
-<sub>Third-party widgets (vercel.app), not official GitHub analytics. If they fail to load, GitHub's CDN or the widget service may be temporarily unavailable.</sub>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=000MAK&theme=radical&no-frame=true&margin-w=8&row=1" alt="GitHub trophies for 000MAK" />
+</p>
+
+<sub>Third-party widgets (vercel.app / skillicons.dev), not official GitHub analytics. If one fails to load, the widget service may be temporarily unavailable — this doesn't affect the repositories themselves.</sub>
+
+## 🐍 Contribution snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/000MAK/000MAK/output/github-contribution-grid-snake-dark.svg" alt="A snake animation eating through my GitHub contribution graph" />
+</p>
+
+<sub>Regenerated daily by a GitHub Action (<code>.github/workflows/snake.yml</code>, using <a href="https://github.com/Platane/snk">Platane/snk</a>). Renders once the first scheduled run completes.</sub>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=1200" alt="" />
+</p>
 
 ## Connect
 
