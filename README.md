@@ -98,5 +98,6 @@ Martial arts keep me grounded in patience, discipline, and steady practice: **Ta
 - GitHub: [@000MAK](https://github.com/000MAK)
 - LinkedIn: [Mehmet Ali Kaya](https://www.linkedin.com/in/mehmet-ali-kaya97/)
 - Hugging Face: [makactuary](https://huggingface.co/makactuary)
+- ORCID: [0000-0002-7905-3337](https://orcid.org/0000-0002-7905-3337)
 
 <p align="center"><sub>Think rigorously. Build reproducibly. Document the limitations.</sub></p>
