@@ -57,6 +57,7 @@ My projects combine statistical reasoning with practical Python: make the inputs
 |---|---|
 | [**Motor pricing engine (freMTPL2)**](https://github.com/000MAK/cafepolice-actuarial-loss-engine) | Frequency × severity pricing on 678k open French motor policies: Poisson GLM vs gradient boosting (Gini 0.27 → 0.32), Gamma severity and a Generalised Pareto large-loss layer (ξ ≈ 0.87). Written up as a Turkish article for *Café Poliçe*. |
 | [**Where to set an XL priority**](https://github.com/000MAK/cafepolice-reinsurance-priority) | Excess-of-loss reinsurance on the Danish fire losses: Hill and POT/GPD tail, Monte Carlo capital, priority chosen by reinsurance margin + cost of capital, and a time hold-out showing that untrended models understate the lower layers. *Café Poliçe* article #2. |
+| [**Large hail vs the damage record (NOAA)**](https://github.com/000MAK/cafepolice-climate-losses) | 30 years of US storm data: hail ≥ 2 in grows 2.5% a year and a trend model predicted 2016–2025 within 0.2%, while the damage column of the same database under-records recent catastrophes. 2030 projection with uncertainty. *Café Poliçe* article #3. |
 | [**Biogas RS-PIM Engine**](https://github.com/000MAK/biogas-rspim-engine) | Actuarial research pipeline combining OU-SDE calibration, HMM/GMM regimes, extreme-value analysis, and solvency metrics. Research prototype; inspect documented assumptions before interpreting results. |
 | [**Demand Tail Analysis**](https://github.com/000MAK/quantix-demand-tail-analysis) | Peaks-over-threshold tail modeling with an emphasis on risk interpretation and reproducible analysis. |
 
@@ -82,6 +83,8 @@ My projects combine statistical reasoning with practical Python: make the inputs
 |---|---|---|
 | [fremtpl2-pricing-engine](https://huggingface.co/makactuary/fremtpl2-pricing-engine) | Motor claim frequency and pure premium | Gini 0.32; predicted / observed 0.999 |
 | [danish-fire-xl-priority](https://huggingface.co/makactuary/danish-fire-xl-priority) | Excess-of-loss priority (EVT) | ξ = 0.50; lowest-cost priority 37.5–100 mDKK |
+| [noaa-hail-trend-2030](https://huggingface.co/makactuary/noaa-hail-trend-2030) | Large-hail hazard trend and 2030 projection | 2016–2025 hold-out within 0.2% |
+| [noaa-storm-events-hail-1996-2025](https://huggingface.co/datasets/makactuary/noaa-storm-events-hail-1996-2025) | Dataset: 1.78M US storm events, CPI-restated damage | NOAA, public domain |
 | [uci-har-activity-baseline](https://huggingface.co/makactuary/uci-har-activity-baseline) | Activity recognition from smartphone sensors | 95.5% on unseen subjects |
 | [bjj-position-family](https://huggingface.co/makactuary/bjj-position-family) | BJJ position family from a 3D skeleton | 0.67 ± 0.12 (grouped CV) |
 | [bjj-bottom-posture](https://huggingface.co/makactuary/bjj-bottom-posture) | BJJ bottom-player posture | 0.80 ± 0.05 (grouped CV) |
