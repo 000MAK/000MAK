@@ -51,16 +51,43 @@ My projects combine statistical reasoning with practical Python: make the inputs
 
 ## Selected work
 
+### Actuarial risk and insurance
+
 | Project | What you can explore |
 |---|---|
-| [**QMASE: Martial-Arts Analytics Engine**](https://github.com/000MAK/quantix-martial-arts-engine) | Evidence-first research engine: deny-by-default dataset registry, consent-gated video pipeline, Hawkes and semi-Markov models of BJJ position flow (no momentum once session rates are separated; Weibull dwell shape k ≈ 1.6), 30 tests in CI. Exploratory: one public dataset, two athletes. |
-| [**BJJ Semi-Markov Analysis**](https://github.com/000MAK/quantix-bjj-semi-markov) | Transition matrices, dwell-time summaries and Kaplan-Meier sojourn curves from timestamped BJJ position labels. |
+| [**Motor pricing engine (freMTPL2)**](https://github.com/000MAK/cafepolice-actuarial-loss-engine) | Frequency × severity pricing on 678k open French motor policies: Poisson GLM vs gradient boosting (Gini 0.27 → 0.32), Gamma severity and a Generalised Pareto large-loss layer (ξ ≈ 0.87). Written up as a Turkish article for *Café Poliçe*. |
+| [**Where to set an XL priority**](https://github.com/000MAK/cafepolice-reinsurance-priority) | Excess-of-loss reinsurance on the Danish fire losses: Hill and POT/GPD tail, Monte Carlo capital, priority chosen by reinsurance margin + cost of capital, and a time hold-out showing that untrended models understate the lower layers. *Café Poliçe* article #2. |
 | [**Biogas RS-PIM Engine**](https://github.com/000MAK/biogas-rspim-engine) | Actuarial research pipeline combining OU-SDE calibration, HMM/GMM regimes, extreme-value analysis, and solvency metrics. Research prototype; inspect documented assumptions before interpreting results. |
 | [**Demand Tail Analysis**](https://github.com/000MAK/quantix-demand-tail-analysis) | Peaks-over-threshold tail modeling with an emphasis on risk interpretation and reproducible analysis. |
+
+### Martial-arts analytics
+
+| Project | What you can explore |
+|---|---|
+| [**QMASE: Martial-Arts Analytics Engine**](https://github.com/000MAK/quantix-martial-arts-engine) | Evidence-first research engine: deny-by-default dataset registry, consent-gated video pipeline, Hawkes and semi-Markov models of BJJ position flow (no momentum once session rates are separated; Weibull dwell shape k ≈ 1.6), tests in CI. Exploratory: one public dataset, two athletes. |
+| [**BJJ Semi-Markov Analysis**](https://github.com/000MAK/quantix-bjj-semi-markov) | Transition matrices, dwell-time summaries and Kaplan-Meier sojourn curves from timestamped BJJ position labels. |
+
+### Statistics and machine learning
+
+| Project | What you can explore |
+|---|---|
 | [**HMM Regime Analysis**](https://github.com/000MAK/quantix-hmm-regime-analysis) | Hidden Markov model analysis for demand regimes, with an inspectable workflow. |
 | [**Bootstrap Inference Lab**](https://github.com/000MAK/quantix-bootstrap-inference-lab) | Bootstrap confidence intervals and permutation tests for hands-on statistical inference. |
 | [**Breast Cancer Classification**](https://github.com/000MAK/quantix-breast-cancer-classification) | A scikit-learn classification workflow with held-out evaluation metrics; an educational dataset exercise, not a diagnostic tool. |
 | [**CIFAR-10 CNN Baseline**](https://github.com/000MAK/quantix-cifar10-cnn-baseline) | A compact PyTorch computer-vision baseline with a documented dataset pipeline. |
+
+## Models and datasets on Hugging Face
+
+| | Task | Held-out result |
+|---|---|---|
+| [fremtpl2-pricing-engine](https://huggingface.co/makactuary/fremtpl2-pricing-engine) | Motor claim frequency and pure premium | Gini 0.32; predicted / observed 0.999 |
+| [danish-fire-xl-priority](https://huggingface.co/makactuary/danish-fire-xl-priority) | Excess-of-loss priority (EVT) | ξ = 0.50; lowest-cost priority 37.5–100 mDKK |
+| [uci-har-activity-baseline](https://huggingface.co/makactuary/uci-har-activity-baseline) | Activity recognition from smartphone sensors | 95.5% on unseen subjects |
+| [bjj-position-family](https://huggingface.co/makactuary/bjj-position-family) | BJJ position family from a 3D skeleton | 0.67 ± 0.12 (grouped CV) |
+| [bjj-bottom-posture](https://huggingface.co/makactuary/bjj-bottom-posture) | BJJ bottom-player posture | 0.80 ± 0.05 (grouped CV) |
+| [grapplemap-bjj-graph](https://huggingface.co/datasets/makactuary/grapplemap-bjj-graph) | Dataset: 725 BJJ positions, 1,485 transitions | from GrappleMap (public domain) |
+| [oxford-pets-cat-breeds](https://huggingface.co/makactuary/oxford-pets-cat-breeds) | 12 cat breeds, frozen ConvNeXt features | 89.6% accuracy |
+| [simba-or-not](https://huggingface.co/makactuary/simba-or-not) | Is this my cat? (photos never uploaded) | 41 / 42 found; 1 false alarm in 2,371 |
 
 These repositories are independent research and learning projects. Read each README for its data source, run instructions, evaluation setup, and limitations. Model scores on public benchmark datasets do not establish production or regulatory suitability.
 
