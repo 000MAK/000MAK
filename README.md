@@ -53,6 +53,8 @@ My projects combine statistical reasoning with practical Python: make the inputs
 
 | Project | What you can explore |
 |---|---|
+| [**QMASE: Martial-Arts Analytics Engine**](https://github.com/000MAK/quantix-martial-arts-engine) | Evidence-first research engine: deny-by-default dataset registry, consent-gated video pipeline, Hawkes and semi-Markov models of BJJ position flow (no momentum once session rates are separated; Weibull dwell shape k ≈ 1.6), 30 tests in CI. Exploratory: one public dataset, two athletes. |
+| [**BJJ Semi-Markov Analysis**](https://github.com/000MAK/quantix-bjj-semi-markov) | Transition matrices, dwell-time summaries and Kaplan-Meier sojourn curves from timestamped BJJ position labels. |
 | [**Biogas RS-PIM Engine**](https://github.com/000MAK/biogas-rspim-engine) | Actuarial research pipeline combining OU-SDE calibration, HMM/GMM regimes, extreme-value analysis, and solvency metrics. Research prototype; inspect documented assumptions before interpreting results. |
 | [**Demand Tail Analysis**](https://github.com/000MAK/quantix-demand-tail-analysis) | Peaks-over-threshold tail modeling with an emphasis on risk interpretation and reproducible analysis. |
 | [**HMM Regime Analysis**](https://github.com/000MAK/quantix-hmm-regime-analysis) | Hidden Markov model analysis for demand regimes, with an inspectable workflow. |
