@@ -1,17 +1,19 @@
 <p align="center">
-  <img src="assets/github-banner.png" width="100%" alt="Mehmet Ali Kaya - data, statistics, actuarial risk, and Python" />
+  <img src="assets/akinci-banner.png" width="100%" alt="Modern Zaman Akıncısı — cyberpunk city × Ottoman akıncı" />
 </p>
 
 <div align="center">
 
 # Mehmet Ali Kaya
 
+### ⚔ Modern Zaman Akıncısı — Siber Şehrin Veri Süvarisi ⚔
+
 ### Data Management | Actuarial Risk Analytics | Applied Statistics | Python
 
 **Data Management Office Specialist** | **MIS Ph.D. Candidate, Sakarya University** | **M.Sc. Statistics**
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1300&color=39D353&center=true&vCenter=true&width=820&lines=Turning+data+into+reproducible+analysis;Actuarial+risk+%26+solvency+modeling;Python+automation+%7C+data+quality+%7C+statistics;Think+rigorously.+Build+reproducibly." alt="Animated focus: reproducible data analysis, actuarial risk, Python automation, and statistics" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1300&color=00E5FF&center=true&vCenter=true&width=820&lines=Veri+bozk%C4%B1r%C4%B1n%C4%B1n+s%C3%BCvarisi;Actuarial+risk+%26+solvency+modeling;Python+automation+%7C+data+quality+%7C+statistics;Think+rigorously.+Build+reproducibly." alt="Modern Zaman Akıncısı — veri bozkırının süvarisi" />
 </p>
 
 <a href="https://github.com/000MAK"><img src="https://img.shields.io/github/followers/000MAK?label=Followers&style=for-the-badge&logo=github" alt="GitHub followers" /></a>
@@ -20,6 +22,23 @@
 <a href="https://huggingface.co/makactuary"><img src="https://img.shields.io/badge/Hugging%20Face-makactuary-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face profile" /></a>
 
 </div>
+
+---
+
+## ⚔ Konsept — Siber Şehir × Akıncı
+
+Osmanlı'nın **uç beyliği akıncısı**, neon ışıklarla yıkanan bir megakentte yeniden doğdu. Geçmişin süvarisi, geleceğin şehrinde — **veri bozkırının süvarisi** olarak sürüyor.
+
+| Akıncı (geçmiş) | → | Modern Zaman Akıncısı (şimdi) |
+|---|---|---|
+| 🗡️ Kılıç | → | Algoritma |
+| 🐎 At | → | Model (stokastik) |
+| 🌾 Bozkır | → | Veri denizi / bilinmeyen |
+| ⚔️ Akın | → | Cesur & hızlı veri baskını |
+| 💰 Ganimet | → | Öngörü / içgörü / risk ölçümü |
+| 🏰 Uç beyliği | → | Veri bilimi & aktüerya |
+
+> *"Her model bir akın; her değer, kampa dönen bir ganimet."*
 
 ---
 
