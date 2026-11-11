@@ -29,20 +29,20 @@
 
 ---
 
-## ⚔ Konsept — Siber Şehir × Akıncı
+## ⚔ Concept — Cyber City × Akıncı
 
-Osmanlı'nın **uç beyliği akıncısı**, neon ışıklarla yıkanan bir megakentte yeniden doğdu. Geçmişin süvarisi, geleceğin şehrinde — **veri bozkırının süvarisi** olarak sürüyor.
+The Ottoman **frontier raider (akıncı)** is reborn in a neon-washed megacity. A rider of the past, in the city of the future — riding as the **cavalryman of the data steppe**.
 
-| Akıncı (geçmiş) | → | Modern Zaman Akıncısı (şimdi) |
+| Akıncı (then) | → | Modern-day Akıncı (now) |
 |---|---|---|
-| 🗡️ Kılıç | → | Algoritma |
-| 🐎 At | → | Model (stokastik) |
-| 🌾 Bozkır | → | Veri denizi / bilinmeyen |
-| ⚔️ Akın | → | Cesur & hızlı veri baskını |
-| 💰 Ganimet | → | Öngörü / içgörü / risk ölçümü |
-| 🏰 Uç beyliği | → | Veri bilimi & aktüerya |
+| 🗡️ Sword | → | Algorithm |
+| 🐎 Horse | → | Model (stochastic) |
+| 🌾 Steppe | → | Sea of data / the unknown |
+| ⚔️ Raid | → | Bold, fast data run |
+| 💰 Spoils | → | Foresight / insight / risk measurement |
+| 🏰 Frontier province | → | Data science & actuarial work |
 
-> *"Her model bir akın; her değer, kampa dönen bir ganimet."*
+> *"Every model is a raid; every value is spoils brought back to camp."*
 
 ---
 
@@ -130,7 +130,7 @@ These repositories are independent research and learning projects. Read each REA
 Martial arts keep me grounded in patience, discipline, and steady practice: **Taekwondo | Muay Thai | Kickboxing | Brazilian Jiu-Jitsu**.
 
 <p align="center">
-  <img src="assets/simba.jpg" width="150" alt="Simba, orange tabby and desk-side supervisor" />
+  <img src="assets/simba-card.png" width="520" alt="Simba, orange tabby: photo and line-art drawing" />
   <br />
   <sub><b>Simba &#x1F43E;</b> - chief morale officer and keeper of break time.</sub>
 </p>
