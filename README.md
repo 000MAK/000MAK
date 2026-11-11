@@ -2,6 +2,10 @@
   <img src="assets/akinci-banner.png" width="100%" alt="Modern Zaman Akıncısı — cyberpunk city × Ottoman akıncı" />
 </p>
 
+<p align="center">
+  <a href="https://000mak.github.io/portfolio.html"><img src="assets/lineart-simba.svg" width="100%" alt="Simba drawn in line art: Mehmet Ali Kaya, data, actuarial risk, statistics, open source" /></a>
+</p>
+
 <div align="center">
 
 # Mehmet Ali Kaya
